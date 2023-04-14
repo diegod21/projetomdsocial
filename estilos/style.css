@@ -27,6 +27,9 @@ body{
 header{
     padding: 15px;
 }
+header p{
+    color: #919193;
+}
 header h1{
     padding: 15px;
 }
@@ -50,6 +53,9 @@ li{
     border-radius: 20px;
     background-image: linear-gradient(to right,  #5578BA, #40A376);
 }
+li:hover{
+    border: solid 1px white;
+}
 li > p{
     margin-left: 5px;
 }
@@ -72,4 +78,7 @@ footer{
     justify-content: center;
     align-items: center;
     margin: 2px;
+}
+.case:hover{
+    border: solid 1px white;
 }
