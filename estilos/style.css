@@ -54,7 +54,7 @@ li{
     background-image: linear-gradient(to right,  #5578BA, #40A376);
 }
 li:hover{
-    border: solid 1px white;
+    border: solid 2px white;
 }
 li > p{
     margin-left: 5px;
